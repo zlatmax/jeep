@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" start="node5" apprev="18105">
+  <panorama id="node5">
+    <input levelingroll="7.08558" width="1944" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1944" overlap="1" leveltilesize="510" levelingpitch="-4.19255">
+      <level width="1944" preload="0" predecode="0" height="1944"/>
+      <level width="972" preload="0" predecode="0" height="972"/>
+      <level width="486" preload="1" predecode="1" height="486"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="158.07" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="120" pan="360" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata heading="0" latitude="" longitude="" copyright="" comment="" customnodeid="" tags="Program Files" datetime="15.10.2025 18:54" info="" nodeid="node5" author="" description="" source="" title="SAMSUNG"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" background="1" height="20" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20" zoomout="0" blendtime="1" blendcolor="0x000000" zoomin="0" zoomafterinfov="90"/>
+    <autorotate nodefilter="" enabled="1" nodedelay="0.00" returntohorizon="0.500" speed="0.050" noderandom="1" startloaded="1" delay="5.00" useanimation="0"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" rubberband="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata heading="0" latitude="" longitude="" copyright="" comment="" customnodeid="" tags="" datetime="" info="" nodeid="master" author="" description="" source="" title=""/>
+  </masternode>
+</tour>
